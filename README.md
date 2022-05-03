@@ -1,5 +1,7 @@
 # Wordle-clone
 
+https://wordleclone-game.netlify.app
+
 Recreation of the popular Wordle game. 
 With over 5000 5-letter words, you have six tries to guess a 5-letter word through deduction. 
 
