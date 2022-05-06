@@ -1,5 +1,6 @@
 # Wordle-clone
 
+<i>Check it out</i>:  
 https://wordleclone-game.netlify.app
 
 Recreation of the popular Wordle game. 
