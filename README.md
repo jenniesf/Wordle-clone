@@ -1,4 +1,4 @@
-# Wordle-clone
+# ⭐ Wordle-clone
 
 <i>Check it out</i>:  
 https://wordleclone-game.netlify.app
