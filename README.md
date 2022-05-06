@@ -1,6 +1,6 @@
 # ⭐ Wordle-clone
 
-<i>Check it out</i>:  
+<i>Visit my site</i>:  
 https://wordleclone-game.netlify.app
 
 Recreation of the popular Wordle game. 
